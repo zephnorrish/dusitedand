@@ -15,11 +15,13 @@
         Dusit Education
     </author>
 
-    <gap:config-file platform="ios" parent="CFBundleShortVersionString">
+    <gap:config-file platform="android" parent="/manifest">
+	    <application android:debuggable="false" />
+
         <string>1.2</string>
     </gap:config-file>
 
-    <gap:platform name="ios" />
+ 
     <gap:platform name="android" />
 
     <access origin="*" />
