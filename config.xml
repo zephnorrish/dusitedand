@@ -5,14 +5,14 @@
          id        = "com.dusit.mobile"
         versionCode = "3.3.0"
         version   = "3.3.0">
-    <name>Dusit Education</name>
+    <name>Dusit Hospitality Education</name>
 
     <description>
-       Dusit - for excellence in hospitality education
+       Dusit - beyond education
     </description>
 
-    <author href="http://asean.dusiteducation.com" email="zeph.norrish@dusit.com">
-        Dusit Education
+    <author href="http://dhe.dusiteducation.com" email="zeph.norrish@dusit.com">
+        Dusit Hospitality Education
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
